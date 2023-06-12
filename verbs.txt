@@ -1,0 +1,3 @@
+sit,sat,sat
+run,ran,ran
+laugh,laughed,laughed
